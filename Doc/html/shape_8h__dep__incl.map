@@ -1,0 +1,7 @@
+<map id="lib_headers/mingl/shape/shape.h" name="lib_headers/mingl/shape/shape.h">
+<area shape="rect" id="node1" title="Représente une forme." alt="" coords="313,5,495,47"/>
+<area shape="rect" id="node2" href="$circle_8h.html" title="Représente un cercle." alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$line_8h.html" title="Représente une ligne." alt="" coords="211,95,392,136"/>
+<area shape="rect" id="node4" href="$rectangle_8h.html" title="Représente un rectangle." alt="" coords="416,95,597,136"/>
+<area shape="rect" id="node5" href="$triangle_8h.html" title="Représente un triangle." alt="" coords="621,95,803,136"/>
+</map>

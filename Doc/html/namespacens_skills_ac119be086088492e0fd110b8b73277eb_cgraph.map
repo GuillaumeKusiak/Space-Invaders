@@ -1,0 +1,4 @@
+<map id="nsSkills::displaySkills" name="nsSkills::displaySkills">
+<area shape="rect" id="node1" title="Affichage des capacités." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$namespacens_skills.html#a973ff5473f165839f0cedd79d9082679" title="Utilisation d&#39;une capacité au hasard selon &quot;maxAmmunition&quot;, &quot;maxLifeShield&quot;, &quot;invinsibility&quot;." alt="" coords="216,5,331,32"/>
+</map>

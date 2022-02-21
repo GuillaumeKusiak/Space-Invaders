@@ -1,0 +1,12 @@
+<map id="lib_headers/mingl/shape/shape.h" name="lib_headers/mingl/shape/shape.h">
+<area shape="rect" id="node1" title="Représente une forme." alt="" coords="191,5,373,47"/>
+<area shape="rect" id="node2" href="$idrawable_8h.html" title="Interface pour un objet affichable." alt="" coords="5,95,175,121"/>
+<area shape="rect" id="node4" href="$rgbacolor_8h.html" title="Représente une couleur RGBA." alt="" coords="199,95,365,121"/>
+<area shape="rect" id="node9" href="$vec2d_8h.html" title="Représente un vecteur sur deux dimensions." alt="" coords="389,95,533,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,169,129,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="190,169,297,196"/>
+<area shape="rect" id="node6" href="$ieditable_8h.html" title="declaration de la classe CEditable dans nsUtil" alt="" coords="321,169,459,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="305,319,385,345"/>
+<area shape="rect" id="node8" href="$ieditable_8hpp.html" title=" " alt="" coords="337,244,443,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="484,169,560,196"/>
+</map>

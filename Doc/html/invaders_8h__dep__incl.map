@@ -1,0 +1,9 @@
+<map id="headers/Invaders/invaders.h" name="headers/Invaders/invaders.h">
+<area shape="rect" id="node1" title=" " alt="" coords="573,5,780,32"/>
+<area shape="rect" id="node2" href="$game_loop_8cpp.html" title="Configuration de la boucle du jeu." alt="" coords="5,80,220,107"/>
+<area shape="rect" id="node3" href="$invader_8cpp.html" title="Toutes les actions en lien avec l&#39;Invader." alt="" coords="244,80,424,107"/>
+<area shape="rect" id="node4" href="$mini_invaders_8cpp.html" title="Toutes les actions en lien avec les mini invaders." alt="" coords="448,80,665,107"/>
+<area shape="rect" id="node5" href="$shoot_invader_8cpp.html" title="Toutes les actions en lien avec le tir de l&#39;invader." alt="" coords="690,80,906,107"/>
+<area shape="rect" id="node6" href="$shoot_mini_invaders_8cpp.html" title=" " alt="" coords="931,80,1183,107"/>
+<area shape="rect" id="node7" href="$torpedos_8cpp.html" title="Toutes les actions des torpilles." alt="" coords="1207,80,1397,107"/>
+</map>

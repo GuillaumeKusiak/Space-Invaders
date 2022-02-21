@@ -1,0 +1,9 @@
+<map id="lib_headers/mingl/transition/transition.h" name="lib_headers/mingl/transition/transition.h">
+<area shape="rect" id="node1" title="Definition d&#39;une transition." alt="" coords="79,5,283,47"/>
+<area shape="rect" id="node2" href="$transition__contract_8h.html" title="Création de la transition." alt="" coords="103,95,259,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,92,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="149,244,212,271"/>
+<area shape="rect" id="node5" href="$itransitionable_8h.html" title="Interface pour objet &quot;transitionable&quot;." alt="" coords="167,169,295,196"/>
+<area shape="rect" id="node6" href="$transition__types_8h.html" title="Définit quelques types pour les transitions." alt="" coords="319,169,458,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="355,244,422,271"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="headers/Skills/skills.h" name="headers/Skills/skills.h">
+<area shape="rect" id="node1" title="Gestion des capacités lors du jeu." alt="" coords="250,5,412,32"/>
+<area shape="rect" id="node2" href="$generate_game_8h.html" title="Génération de la table de jeu." alt="" coords="74,80,268,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="200,244,262,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="268,169,319,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="394,87,474,114"/>
+<area shape="rect" id="node3" href="$variables_8h.html" title="Contenance de toutes les variables." alt="" coords="23,169,194,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="18,244,76,271"/>
+</map>

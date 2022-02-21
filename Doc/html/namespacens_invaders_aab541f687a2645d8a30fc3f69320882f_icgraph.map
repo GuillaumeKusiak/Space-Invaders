@@ -1,0 +1,4 @@
+<map id="nsInvaders::shootInvader" name="nsInvaders::shootInvader">
+<area shape="rect" id="node1" title="On place le missile au niveau de l&#39;envahisseur." alt="" coords="267,13,453,39"/>
+<area shape="rect" id="node2" href="$namespacens_game_loop.html#a497f0a2f2849c5c4005f5a7e16933bb6" title="déplacement de l&#39;invader" alt="" coords="5,5,219,47"/>
+</map>

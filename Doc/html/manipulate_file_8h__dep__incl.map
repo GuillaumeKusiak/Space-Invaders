@@ -1,0 +1,9 @@
+<map id="headers/ManipulateFile/manipulateFile.h" name="headers/ManipulateFile/manipulateFile.h">
+<area shape="rect" id="node1" title="Manipulation de fichier pour l&#39;extraction et l&#39;insertion des points." alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node2" href="$level_8h.html" title="Gestion du niveau des joueurs." alt="" coords="52,102,213,129"/>
+<area shape="rect" id="node5" href="$rank_8h.html" title="Gestion du classement des joueurs." alt="" coords="237,102,393,129"/>
+<area shape="rect" id="node7" href="$manipulate_file_8cpp.html" title="Manipulation de fichier pour l&#39;extraction et l&#39;insertion des points." alt="" coords="417,95,568,136"/>
+<area shape="rect" id="node3" href="$level_8cpp.html" title="Gestion du niveau des joueurs." alt="" coords="5,184,148,211"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Fichier main, lancement du jeu." alt="" coords="172,184,277,211"/>
+<area shape="rect" id="node6" href="$rank_8cpp.html" title="Gestion du classement des joueurs." alt="" coords="302,184,441,211"/>
+</map>

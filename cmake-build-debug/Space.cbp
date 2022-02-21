@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Space"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/guillaume/SpaceInvader/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/guillaume/SpaceInvader/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/guillaume/SpaceInvader/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Space">
+				<Option output="/home/guillaume/SpaceInvader/cmake-build-debug/Space" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guillaume/SpaceInvader/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/guillaume/SpaceInvader/headers"/>
+					<Add directory="/home/guillaume/SpaceInvader/lib_headers"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 Space"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Space/fast">
+				<Option output="/home/guillaume/SpaceInvader/cmake-build-debug/Space" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guillaume/SpaceInvader/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/guillaume/SpaceInvader/headers"/>
+					<Add directory="/home/guillaume/SpaceInvader/lib_headers"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 Space/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/guillaume/SpaceInvader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Canonique/setInputMode.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/GameLoop/gameLoop.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/GenerateGame/generateGame.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Invaders/invaders.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Level/level.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/ManipulateFile/manipulateFile.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Missiles/missiles.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Player/player.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Rank/rank.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Skills/skills.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Torpedos/torpedos.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Variables/variables.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/headers/Yaml/yaml.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/event/event.hpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/event/event_manager.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/exception/cexception.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/exception/cexception.hpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/exception/errcode.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/graphics/idrawable.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/graphics/rgbacolor.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/graphics/vec2d.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/gui/glut_font.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/gui/sprite.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/gui/text.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/macros.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/mingl.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/shape/circle.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/shape/line.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/shape/rectangle.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/shape/shape.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/shape/triangle.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/tools/ieditable.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/tools/ieditable.hpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/tools/ifonctorunaire.hpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/transition/itransitionable.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/transition/transition.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/transition/transition_contract.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/transition/transition_engine.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/lib_headers/mingl/transition/transition_types.h">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Canonique/input.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Canonique/setInputMode.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/GameLoop/gameLoop.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/GenerateGame/generateTableOfGame.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/GenerateGame/updateTableOfGame.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Invaders/invader.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Invaders/miniInvaders.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Invaders/shootInvader.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Invaders/shootMiniInvaders.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Level/level.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/ManipulateFile/manipulateFile.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Missiles/missiles.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Player/player.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Player/shoot.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Rank/rank.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Skills/skills.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Torpedos/torpedos.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/Yaml/yaml.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/src/main.cpp">
+			<Option target="Space"/>
+		</Unit>
+		<Unit filename="/home/guillaume/SpaceInvader/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,5 @@
+<map id="nsLevel::levelPlayer" name="nsLevel::levelPlayer">
+<area shape="rect" id="node1" title="Initialise la map qui stock le nombre de points et le nom d&#39;utilisateur du joueur." alt="" coords="215,31,368,57"/>
+<area shape="rect" id="node2" href="$namespacens_level.html#a6cd0df0e07517f8f1f55b449cb02aaa7" title="Calcul le niveau par rapport à l&#39;expérience." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="59,56,113,83"/>
+</map>

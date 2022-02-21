@@ -1,0 +1,6 @@
+<map id="nsSkills::skills" name="nsSkills::skills">
+<area shape="rect" id="node1" title="Utilisation d&#39;une capacité au hasard selon &quot;maxAmmunition&quot;, &quot;maxLifeShield&quot;, &quot;invinsibility&quot;." alt="" coords="276,56,391,83"/>
+<area shape="rect" id="node2" href="$namespacens_skills.html#ac119be086088492e0fd110b8b73277eb" title="Affichage des capacités." alt="" coords="35,5,198,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="89,56,144,83"/>
+<area shape="rect" id="node4" href="$namespacens_generate_game.html#af1967b88a302e065c2ba54622d632ccb" title="Mise à jour de la table de jeu." alt="" coords="5,107,228,149"/>
+</map>

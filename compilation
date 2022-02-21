@@ -1,0 +1,7 @@
+#!/bin/bash
+
+nameOfFile=$1
+cd ./compil
+`g++ -c $nameOfFile`
+`g++ -o ../SpaceInvader *`
+echo "Le compilation du projet à bien été terminé"

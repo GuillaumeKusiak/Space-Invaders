@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classns_graphics_1_1_i_drawable.html" title="Interface pour un objet affichable." alt="" coords="5,56,173,83"/>
+<area shape="rect" id="node2" href="$classns_gui_1_1_sprite.html" title="Permet de charger une image depuis un format créé pour l&#39;occasion, le .si2." alt="" coords="495,5,600,32"/>
+<area shape="rect" id="node3" href="$classns_gui_1_1_text.html" title="Gère l&#39;affichage d&#39;un texte." alt="" coords="500,56,595,83"/>
+<area shape="rect" id="node4" href="$classns_shape_1_1_shape.html" title="Classe de base pour une forme." alt="" coords="260,157,385,184"/>
+<area shape="rect" id="node5" href="$classns_shape_1_1_circle.html" title="Classe représentant un cercle." alt="" coords="486,208,609,235"/>
+<area shape="rect" id="node6" href="$classns_shape_1_1_line.html" title="Classe représentant une ligne." alt="" coords="491,259,603,285"/>
+<area shape="rect" id="node7" href="$classns_shape_1_1_rectangle.html" title="Classe représentant un rectangle." alt="" coords="472,107,623,133"/>
+<area shape="rect" id="node8" href="$classns_shape_1_1_triangle.html" title="Classe représentant un triangle." alt="" coords="479,157,615,184"/>
+<area shape="rect" id="node9" href="$classns_transition_1_1_i_transitionable.html" title="Une classe abstraite pour n&#39;importe quelle élément pouvant effectuer une transition entre deux états." alt="" coords="221,107,424,133"/>
+</map>

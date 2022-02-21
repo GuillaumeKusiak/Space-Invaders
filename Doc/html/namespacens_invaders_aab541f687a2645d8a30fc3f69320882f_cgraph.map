@@ -1,0 +1,4 @@
+<map id="nsInvaders::shootInvader" name="nsInvaders::shootInvader">
+<area shape="rect" id="node1" title="On place le missile au niveau de l&#39;envahisseur." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$namespacens_invaders.html#a22e73923f2a44e84524f1f5a4eac6175" title="Vérification principale du tir de l&#39;envahisseur." alt="" coords="240,5,457,32"/>
+</map>

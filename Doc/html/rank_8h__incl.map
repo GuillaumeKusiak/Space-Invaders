@@ -1,0 +1,9 @@
+<map id="headers/Rank/rank.h" name="headers/Rank/rank.h">
+<area shape="rect" id="node1" title="Gestion du classement des joueurs." alt="" coords="147,5,303,32"/>
+<area shape="rect" id="node2" href="$manipulate_file_8h.html" title="Manipulation de fichier pour l&#39;extraction et l&#39;insertion des points." alt="" coords="121,80,329,121"/>
+<area shape="rect" id="node3" href="$generate_game_8h.html" title="Génération de la table de jeu." alt="" coords="61,169,256,211"/>
+<area shape="rect" id="node7" title=" " alt="" coords="268,259,318,285"/>
+<area shape="rect" id="node4" href="$variables_8h.html" title="Contenance de toutes les variables." alt="" coords="22,259,193,285"/>
+<area shape="rect" id="node5" title=" " alt="" coords="26,333,85,360"/>
+<area shape="rect" id="node6" title=" " alt="" coords="128,333,191,360"/>
+</map>

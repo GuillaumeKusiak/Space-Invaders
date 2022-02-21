@@ -1,0 +1,9 @@
+KeyLeft : q
+KeyRight : d
+KeyShootLeft : a
+KeyShootRight : e
+KInvader : W
+KMiniInvaders : m
+KSpaceShip : A
+KSizeSpace : 20
+KSizeLine : 20

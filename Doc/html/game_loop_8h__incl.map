@@ -1,0 +1,10 @@
+<map id="headers/GameLoop/gameLoop.h" name="headers/GameLoop/gameLoop.h">
+<area shape="rect" id="node1" title="Configuration de la boucle du jeu." alt="" coords="189,5,421,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="311,319,374,345"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,319,64,345"/>
+<area shape="rect" id="node4" href="$generate_game_8h.html" title="Génération de la table de jeu." alt="" coords="123,155,317,196"/>
+<area shape="rect" id="node7" href="$skills_8h.html" title="Gestion des capacités lors du jeu." alt="" coords="295,80,414,107"/>
+<area shape="rect" id="node5" href="$variables_8h.html" title="Contenance de toutes les variables." alt="" coords="72,244,243,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="317,244,368,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="443,162,523,189"/>
+</map>

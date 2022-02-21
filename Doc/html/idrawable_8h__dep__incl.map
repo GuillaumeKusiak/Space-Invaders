@@ -1,0 +1,11 @@
+<map id="lib_headers/mingl/graphics/idrawable.h" name="lib_headers/mingl/graphics/idrawable.h">
+<area shape="rect" id="node1" title="Interface pour un objet affichable." alt="" coords="275,5,472,47"/>
+<area shape="rect" id="node2" href="$sprite_8h.html" title="Image pouvant être chargé depuis un fichier." alt="" coords="5,95,168,136"/>
+<area shape="rect" id="node3" href="$text_8h.html" title="Du texte." alt="" coords="192,95,355,136"/>
+<area shape="rect" id="node4" href="$mingl_8h.html" title="La bête." alt="" coords="379,102,570,129"/>
+<area shape="rect" id="node5" href="$shape_8h.html" title="Représente une forme." alt="" coords="595,95,776,136"/>
+<area shape="rect" id="node6" href="$circle_8h.html" title="Représente un cercle." alt="" coords="287,184,468,225"/>
+<area shape="rect" id="node7" href="$line_8h.html" title="Représente une ligne." alt="" coords="492,184,673,225"/>
+<area shape="rect" id="node8" href="$rectangle_8h.html" title="Représente un rectangle." alt="" coords="697,184,879,225"/>
+<area shape="rect" id="node9" href="$triangle_8h.html" title="Représente un triangle." alt="" coords="903,184,1084,225"/>
+</map>

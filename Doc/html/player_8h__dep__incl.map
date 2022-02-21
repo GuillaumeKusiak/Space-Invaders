@@ -1,0 +1,7 @@
+<map id="headers/Player/player.h" name="headers/Player/player.h">
+<area shape="rect" id="node1" title="Toutes les actions en lien avec le SpaceShip (joueur)" alt="" coords="310,5,485,32"/>
+<area shape="rect" id="node2" href="$input_8cpp.html" title="Configuration du mode non canonique." alt="" coords="5,80,184,107"/>
+<area shape="rect" id="node3" href="$missiles_8cpp.html" title="Toutes les actions en lien avec les missiles." alt="" coords="209,80,391,107"/>
+<area shape="rect" id="node4" href="$player_8cpp.html" title="Toutes les actions en lien avec le SpaceShip (joueur)" alt="" coords="416,80,573,107"/>
+<area shape="rect" id="node5" href="$shoot_8cpp.html" title="Toutes les actions en lien avec le SpaceShip (joueur)" alt="" coords="598,80,751,107"/>
+</map>

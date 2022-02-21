@@ -1,0 +1,8 @@
+<map id="headers/Skills/skills.h" name="headers/Skills/skills.h">
+<area shape="rect" id="node1" title="Gestion des capacités lors du jeu." alt="" coords="337,5,499,32"/>
+<area shape="rect" id="node2" href="$game_loop_8h.html" title="Configuration de la boucle du jeu." alt="" coords="89,80,321,107"/>
+<area shape="rect" id="node5" href="$skills_8cpp.html" title=" " alt="" coords="345,80,491,107"/>
+<area shape="rect" id="node6" href="$torpedos_8cpp.html" title="Toutes les actions des torpilles." alt="" coords="515,80,705,107"/>
+<area shape="rect" id="node3" href="$game_loop_8cpp.html" title="Configuration de la boucle du jeu." alt="" coords="5,155,220,181"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Fichier main, lancement du jeu." alt="" coords="244,155,349,181"/>
+</map>

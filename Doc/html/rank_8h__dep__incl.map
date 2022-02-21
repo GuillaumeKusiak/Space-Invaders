@@ -1,0 +1,5 @@
+<map id="headers/Rank/rank.h" name="headers/Rank/rank.h">
+<area shape="rect" id="node1" title="Gestion du classement des joueurs." alt="" coords="53,5,209,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html" title="Fichier main, lancement du jeu." alt="" coords="5,80,111,107"/>
+<area shape="rect" id="node3" href="$rank_8cpp.html" title="Gestion du classement des joueurs." alt="" coords="135,80,274,107"/>
+</map>

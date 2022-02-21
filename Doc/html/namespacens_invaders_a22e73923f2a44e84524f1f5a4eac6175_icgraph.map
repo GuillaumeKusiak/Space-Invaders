@@ -1,0 +1,5 @@
+<map id="nsInvaders::verifShootInvader" name="nsInvaders::verifShootInvader">
+<area shape="rect" id="node1" title="Vérification principale du tir de l&#39;envahisseur." alt="" coords="501,13,719,39"/>
+<area shape="rect" id="node2" href="$namespacens_invaders.html#aab541f687a2645d8a30fc3f69320882f" title="On place le missile au niveau de l&#39;envahisseur." alt="" coords="267,13,453,39"/>
+<area shape="rect" id="node3" href="$namespacens_game_loop.html#a497f0a2f2849c5c4005f5a7e16933bb6" title="déplacement de l&#39;invader" alt="" coords="5,5,219,47"/>
+</map>

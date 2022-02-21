@@ -1,0 +1,5 @@
+<map id="headers/Torpedos/torpedos.h" name="headers/Torpedos/torpedos.h">
+<area shape="rect" id="node1" title="Toutes les actions des torpilles." alt="" coords="121,5,331,32"/>
+<area shape="rect" id="node2" href="$game_loop_8cpp.html" title="Configuration de la boucle du jeu." alt="" coords="5,80,220,107"/>
+<area shape="rect" id="node3" href="$torpedos_8cpp.html" title="Toutes les actions des torpilles." alt="" coords="244,80,435,107"/>
+</map>
