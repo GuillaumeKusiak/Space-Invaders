@@ -26,16 +26,16 @@ Cette SAE permet une première réflexion autour des stratégies algorithmiques 
 - Gestion d’un fichier de configuration au format YAML
 - Réalisation d’une documentation avec doxygen
 
-## II. Auteurs du projet 🎓
+## III. Auteurs du projet 🎓
 * Bouveret Victor `@VictorBouveret`
 * Gervilliers Mattias `@MattiasGervilliers`
 * Gonzales Lenny `@GonzalesLenny`
 * Kusiak Guillaume `@GuillaumeKusiak`
 * Sauva Mathieu `@MathieuSauva`
 
-## III. Ce que j'ai produit 📋
+## IV. Ce que j'ai produit 📋
 > 🖋 Participation à la construction de l'application
 
 
-## IV. Language utilisé
+## V. Language utilisé
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="48px">
