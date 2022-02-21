@@ -37,5 +37,5 @@ Cette SAE permet une première réflexion autour des stratégies algorithmiques 
 > 🖋 Participation à la construction de l'application
 
 
-## IV. Language utilisés
+## IV. Language utilisé
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="48px">
