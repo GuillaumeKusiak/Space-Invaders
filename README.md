@@ -6,7 +6,7 @@ ___
 ## I. Notre projet
 
 ### Présentation 📃
-Lors du de la Situation d'apprentissage et d'évaluation 102 intitulé ```Comparaison d'approche algorithmique```, nous avons mis en place le mini jeu Space Invaders en utilisant le langage C++.
+Lors du de la Situation d'apprentissage et d'évaluation 102 intitulé ```Comparaison d'approche algorithmique```, nous avons mis en place le mini jeu Space Invaders en utilisant le langage C++ et exclusivement en mode console.
 
 ### Objectifs 📊
 #### Savoir :
